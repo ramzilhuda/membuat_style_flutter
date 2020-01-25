@@ -1,6 +1,8 @@
 # membuat_style_flutter
 
-A new Flutter project.
+ini adalah contoh hasil aplikasi membuat style flutter
+
+![image1](https://user-images.githubusercontent.com/60292040/73123429-722d5400-3fc2-11ea-8bc5-b55acf31199d.jpg)
 
 ## Getting Started
 
